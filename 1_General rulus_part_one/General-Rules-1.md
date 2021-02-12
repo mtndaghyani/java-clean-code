@@ -152,6 +152,7 @@ else isHurt = false;
 </div>
 و یا حتی باز هم آن را ساده تر کرد:
 <div dir="ltr">
+  
 ```java
 isHurt = health < 5; // "health < 5" is a boolean statement
 ```
