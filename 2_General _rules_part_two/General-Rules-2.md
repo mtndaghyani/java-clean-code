@@ -1,4 +1,5 @@
 <div dir = "rtl">
+    
 # فاصله ها را رعایت کنیم
 فاصله گذاری صحیح چیزی بیشتر از رعایت چند قانون سخت گیرانه است. فاصله ها به کمک ما می آیند تا بتوانیم برنامه ای که نوشته ایم را بهتر درک کنیم و با کمترین زحمت و در سریع ترین زمان اطلاعات قابل قبولی از چیدمان اجزای مختلف برنامه بدست آوریم.
 به نوشته زیر دقت کنید:
@@ -6,11 +7,16 @@
 <div dir = "ltr">
 
 ```
-Video provides a powerful way to help you prove your point When you click Online Video you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document To make your document look professionally produced, Word provides header footer cover page and text box designs that complement each other For example you can add a matching cover page header and sidebar
-Click Insert and then choose the elements you want from the different
-galleries Themes and styles also help keep your document coordinated.
-When you click Design and choose a new Theme the pictures charts and SmartArt graphics change to match your new theme When you apply styles your
-headings change to match the new theme Save time in Word with new buttons that show up where you need them To change the way a picture fits in your document click it and a button for layout options appears next to it When you work on a table click where you want to add a row or a column and then click the plus sign
+Video provides a powerful way to help you prove your point When you click Online Video you can paste in the embed 
+code for the video you want to add. You can also type a keyword to search online for the video that best fits your 
+document To make your document look professionally produced, Word provides header footer cover page and text box 
+designs that complement each other For example you can add a matching cover page header and sidebar Click Insert 
+and then choose the elements you want from the different galleries Themes and styles also help keep your document 
+coordinated. When you click Design and choose a new Theme the pictures charts and SmartArt graphics change to 
+match your new theme When you apply styles your headings change to match the new theme Save time in Word with 
+new buttons that show up where you need them To change the way a picture fits in your document click it 
+and a button for layout options appears next to it When you work on a table click where you want to add a 
+row or a column and then click the plus sign
 ```  
 
 </div>
@@ -20,19 +26,21 @@ headings change to match the new theme Save time in Word with new buttons that s
 <div dir = "ltr">
 
 ```
-    Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.
+    Video provides a powerful way to help you prove your point. When you click Online Video, you can paste 
+in the embed code for the video you want to add. You can also type a keyword to search online for 
+the video that best fits your document.
 
-    To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar.
-Click Insert and then choose the elements you want from the different
-galleries.
+    To make your document look professionally produced, Word provides header, footer, cover page, and 
+text box designs that complement each other. For example, you can add a matching cover page, header, 
+and sidebar.
+Click Insert and then choose the elements you want from the different galleries.
 
-    Themes and styles also help keep your document coordinated.
-When you click Design and choose a new Theme, the pictures, charts, and
-SmartArt graphics change to match your new theme. When you apply styles, your
-headings change to match the new theme.
+    Themes and styles also help keep your document coordinated. When you click Design and choose 
+a new Theme, the pictures, charts, and SmartArt graphics change to match your new theme. When you
+apply styles, your headings change to match the new theme.
 
-    Save time in Word with new buttons that show up where you need them. To change the way a picture fits in your document, click it and a button
-for layout options appears next to it. When you work on a table, click where
+    Save time in Word with new buttons that show up where you need them. To change the way a picture fits 
+in your document, click it and a button for layout options appears next to it. When you work on a table, click where
 you want to add a row or a column, and then click the plus sign.
 ```
 
