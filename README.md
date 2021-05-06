@@ -6,9 +6,9 @@
   
 ## فهرست مطالب
 
-+ [ مقدمات و اصول کلی ](https://github.com/mtndaghyani/java-clean-code/blob/master/1_General%20rules_part_one/General-Rules-1.md)
++ [ مقدمات و اصول کلی ](https://github.com/mtndaghyani/java-clean-code/blob/master/1_Introduction%20and%20general%20rules/General-Rules-1.md)
 
-+ [فاصله گذاری و کامنت ها](https://github.com/mtndaghyani/java-clean-code/blob/master/2_General%20_rules_part_two/General-Rules-2.md)
++ [فاصله گذاری و کامنت ها](https://github.com/mtndaghyani/java-clean-code/blob/master/2_Whitespace%20and%20Comments/General-Rules-2.md)
 
 + [پروژه های تمیز](https://github.com/mtndaghyani/java-clean-code/blob/master/3_Clean_projects/Clean-Projects.md)
 
