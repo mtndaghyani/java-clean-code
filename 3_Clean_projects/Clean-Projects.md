@@ -63,12 +63,11 @@ static final String[] nonEmptyArray = {"these", "can", "change"};
 
 ## ساختار پروژه
 
-با این که جاوا هیچ گونه اجباری در استفاده از یک طرح یا ساختار خاص در پروژه هایش ندارد، دنبال کردن یک الگوی خاص برای سازمان دهی فایل ها، تست ها، پیکربندی ها(configurations)، داده ها و ... .
 به طور کلی ساختار یکتا و منحصر به فردی برای پروژه های جاوا وجود ندارد. با این حال به یکی از این ساختارهای پرکاربرد که در ابزار مدیریت پروژه Maven استفاده می شود اشاره می کنیم ( اگر با این ابزار آشنایی ندارید به [اینجا](https://maven.apache.org/what-is-maven.html) سر بزنید.)
 + برای فایل های سورس(source files): src/main/java
-    + برای فایل های منبع (xml، image، text و ...) : src/main/resources
-    + برای فایل های تست(test files) : src/test/java
-    + برای فایل های منبع تست (xml، image، text و ...) : src/test/resources
++ برای فایل های منبع (xml، image، text و ...) : src/main/resources
++ برای فایل های تست(test files) : src/test/java
++ برای فایل های منبع تست (xml، image، text و ...) : src/test/resources
 
 ## ساختار فایل سورس (Source file structure)
 
