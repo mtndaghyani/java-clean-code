@@ -11,6 +11,8 @@
 + [فاصله گذاری و کامنت ها](https://github.com/mtndaghyani/java-clean-code/blob/master/2_Whitespace%20and%20Comments/General-Rules-2.md)
 
 + [پروژه های تمیز](https://github.com/mtndaghyani/java-clean-code/blob/master/3_Clean_projects/Clean-Projects.md)
+  
++ [Refactoring](https://github.com/mtndaghyani/java-clean-code/blob/master/4_Refactoring/4_Refactoring.md)
 
 ## منابع
 
@@ -25,6 +27,10 @@
 + https://www.baeldung.com/java-clean-code
 
 + https://www.loadingdeveloper.com/writing-cleaner-code-making-cleaner-if-statements/
+  
++ https://www.jetbrains.com/help/idea/refactoring-source-code.html
+  
++ https://www.methodsandtools.com/archive/archive.php?id=4
 
 </div>
 </div>
